@@ -1,0 +1,6 @@
+matplotlib
+python-dateutil
+plotly
+pandas
+nbformat
+pytz
